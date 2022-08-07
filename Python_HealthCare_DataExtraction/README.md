@@ -2,8 +2,6 @@
 
 I made this project by following codebasics python course, the link for the course is below. If you are interested checkout the link.
 
-[Codebasics Python course](https://codebasics.io/courses/python-for-beginner-and-intermediate-learners)
-
 ## Problem statement
 
 There are a lot of procedures needs to followed by the health insurance companies as per the government regulation to issue the claims, for that the insurance company has to process the images of patient details and prescription sent by hospitals or induvial doctors and extract useful data from them. For these process, the most insurance companies outsource workforce from companies like “Mr. X data Analytics” to extract the information from images manually. 
